@@ -1,0 +1,4 @@
+# This code produces a user interface to predict average gas flow consumption (Sm3h) based on Outside Temperature (°C)and Production status for each hour
+# The information helps the operator determine when to operate heat recovery systeme to prevent peak consumption higher tariffs
+
+Run all the code then visualize dashboard on http://localhost:8050/
